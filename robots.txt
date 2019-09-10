@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yaifonaum.cutting.sk/sitemap.xml
